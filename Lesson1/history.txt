@@ -1,0 +1,5 @@
+mysql
+mysqldump example > C:\Save\MySQL\example_copy
+mysql sample < C:\Save\MySQL\example_copy
+mysql
+doskey /history > history.txt
